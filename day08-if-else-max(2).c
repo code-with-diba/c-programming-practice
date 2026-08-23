@@ -6,7 +6,7 @@ int main()
 
     if(a>b)
         printf("maximum = %d",a);
-    else if(b>a)
+    else if(a<b)
         printf("maximum = %d",b);
     else
         printf("Equal");
