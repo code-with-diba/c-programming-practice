@@ -9,5 +9,5 @@ int main()
     else if(b>a)
         printf("maximum = %d",b);
     else
-        printf("Numbers are equal");
+        printf("Equal");
 }
